@@ -1,0 +1,8 @@
+fractal-tree
+ldrb
+scipy
+meshio
+cardiac-geometries
+h5py==3.9.0 # In order to be compatible with docker image
+numpy==1.21.5 # In order to be compatible with docker image
+scipy==1.8.0 # In order to be compatible with docker image
